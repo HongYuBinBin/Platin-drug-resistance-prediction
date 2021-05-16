@@ -1,0 +1,4 @@
+project_id	case_id	case_submitter_id	sample_id	sample_submitter_id	portion_id	portion_submitter_id	creation_datetime	is_ffpe	portion_number	state	weight
+TCGA-OV	71faa2c1-0d5b-4dcc-bdf9-f2405f29907c	TCGA-61-2113	6b909642-d5a9-4040-9925-ac6af5905b98	TCGA-61-2113-11A	7a930eaa-a683-4da9-b916-4b09bbb5b6bc	TCGA-61-2113-11A-01	1250726400	False	01	released	126.0
+TCGA-OV	71faa2c1-0d5b-4dcc-bdf9-f2405f29907c	TCGA-61-2113	9ba8451e-7ffc-43f2-b602-8ce8764dfc14	TCGA-61-2113-01A	a8827db2-9eab-4285-bf50-ab2b9e19be57	TCGA-61-2113-01A-21-1562-20	1297641600	False	21	released	'--
+TCGA-OV	71faa2c1-0d5b-4dcc-bdf9-f2405f29907c	TCGA-61-2113	9ba8451e-7ffc-43f2-b602-8ce8764dfc14	TCGA-61-2113-01A	a4c1bf5e-5fe6-49fb-acf4-f8e0c80ea5c6	TCGA-61-2113-01A-01	1250467200	False	01	released	127.0
